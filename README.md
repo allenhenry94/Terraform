@@ -1,5 +1,5 @@
 # Terraform
-## This repository consists of two configuration files viz. "main.tf" and "variabes.tf" declared in order to provision a virtual datacenter on an AWS VPC.
+## This repository consists of two configuration files viz. "main.tf" and "variables.tf" declared in order to provision a virtual datacenter on an AWS VPC.
 ## The "main.tf" configuration involves the hashicorp aws provider configured in the Europe(Ireland) region.
 ## The resources have been declared in the following order
 ### 1. A VPC resource.
